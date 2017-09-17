@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{89D674CF-6AD8-E099-5909-A33A318FAE14}") = "Tactus", "Assembly-CSharp.csproj", "{68F182C8-1C15-AD7C-CB57-34F3840C895E}"
+EndProject
+Project("{89D674CF-6AD8-E099-5909-A33A318FAE14}") = "Tactus", "Assembly-CSharp-Editor.csproj", "{A20AA20D-1DA2-80FD-05B0-8265AC830504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F182C8-1C15-AD7C-CB57-34F3840C895E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F182C8-1C15-AD7C-CB57-34F3840C895E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F182C8-1C15-AD7C-CB57-34F3840C895E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F182C8-1C15-AD7C-CB57-34F3840C895E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20AA20D-1DA2-80FD-05B0-8265AC830504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20AA20D-1DA2-80FD-05B0-8265AC830504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20AA20D-1DA2-80FD-05B0-8265AC830504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20AA20D-1DA2-80FD-05B0-8265AC830504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																								GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
