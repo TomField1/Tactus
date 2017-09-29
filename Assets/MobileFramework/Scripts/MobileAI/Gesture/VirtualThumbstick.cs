@@ -12,7 +12,7 @@ namespace MobileAIFramework.Gesture
 		// Use this for initialization
 		void Start()
 		{
-			m_collider 	= (SphereCollider)collider;
+			m_collider 	= (SphereCollider)GetComponent<Collider>();
 			m_transform = transform;
 			
 			GestureManager.AddVirtualThumbstick(this);

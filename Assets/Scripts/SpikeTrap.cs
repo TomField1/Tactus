@@ -1,18 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class SpikeTrap : MonoBehaviour, ITrap
+public class SpikeTrap : MonoBehaviour
 {
-	const float _damage = 30;
 	bool _deployed = false;
 	float _timer = 0;
 
-	PlayerScript _player;
+	PlayerScriptSimple _player;
 	
 	// Use this for initialization
 	public void Start ()
 	{
-		_player = GameObject.Find("Player").GetComponent<PlayerScript>();	
+		_player = GameObject.Find("Player").GetComponent<PlayerScriptSimple>();	
 	}
 	
 	// Update is called once per frame
@@ -20,6 +19,7 @@ public class SpikeTrap : MonoBehaviour, ITrap
 	{
 		_timer += Time.deltaTime;
 
+        //if more than a second has passed, switch states
 		if(_timer >= 1)
 		{
 			Effect();
@@ -27,7 +27,9 @@ public class SpikeTrap : MonoBehaviour, ITrap
 		}
 	}
 
-	// Called when the trap is triggered
+	/// <summary>
+    /// Switches state of spike trap. Sets location and Deployed check.
+    /// </summary>
 	public void Effect()
 	{
 		if(!_deployed)
@@ -39,14 +41,6 @@ public class SpikeTrap : MonoBehaviour, ITrap
 		{
 			transform.position -= transform.up * 0.9f;
 			_deployed = false;
-		}
-	}
-
-	void OnTriggerEnter(Collider collision)
-	{
-		if(collision.tag == "Player")
-		{
-			_player.Damage(_damage);
 		}
 	}
 }

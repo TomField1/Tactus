@@ -151,7 +151,7 @@ namespace MobileAIFramework
 				m_targetCamera = Camera.main;
 			
 			//Debug Camera
-			m_targetCamera.gameObject.AddComponent("CameraPathtrace");
+			m_targetCamera.gameObject.AddComponent<Navigation.CameraPathtrace>();
 			m_camera = m_targetCamera.gameObject.GetComponent("CameraPathtrace") as CameraPathtrace;
 			
 			//Hooking the OnBeginDebug event
@@ -353,7 +353,7 @@ namespace MobileAIFramework
 		/// </summary>
 		public static NavNode PathToMousePosition(Vector3 startPosition)
 		{
-			return MobileAI.Pathfind(startPosition, Instance.camera.ScreenToWorldPoint(Input.mousePosition));
+			return MobileAI.Pathfind(startPosition, Instance.GetComponent<Camera>().ScreenToWorldPoint(Input.mousePosition));
 		}
 
 		/// <summary>

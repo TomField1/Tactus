@@ -2,29 +2,29 @@ Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Renderer: NVIDIA Quadro K620M (ID=0x137a)
     Vendor:   NVIDIA
-    VRAM:     2018 MB
+    VRAM:     2020 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\tomeg\Documents\Anglia Ruskin Work\Tactus\TactusPC_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\tomeg\Documents\Anglia Ruskin Work\Tactus\TactusPC_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\tomeg\Documents\Anglia Ruskin Work\Tactus\TactusPC_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\tomeg\Documents\Anglia Ruskin Work\Tactus\TactusPC_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\tomeg\Documents\Anglia Ruskin Work\Tactus\TactusPC_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\tomeg\Documents\Anglia Ruskin Work\Tactus\TactusPC_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.051 seconds
-desktop: 1920x1080 60Hz; virtual: 3520x1335 at -1600,0
+Platform assembly: C:\Users\Neall\Documents\tactustouch\trunk\Tactus\TactusPC_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Neall\Documents\tactustouch\trunk\Tactus\TactusPC_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Neall\Documents\tactustouch\trunk\Tactus\TactusPC_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Neall\Documents\tactustouch\trunk\Tactus\TactusPC_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Neall\Documents\tactustouch\trunk\Tactus\TactusPC_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Neall\Documents\tactustouch\trunk\Tactus\TactusPC_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\tomeg\Documents\Anglia Ruskin Work\Tactus\TactusPC_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\tomeg\Documents\Anglia Ruskin Work\Tactus\TactusPC_Data\Managed\System.dll (this message is harmless)
-UnloadTime: 3.819066 ms
+Platform assembly: C:\Users\Neall\Documents\tactustouch\trunk\Tactus\TactusPC_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Neall\Documents\tactustouch\trunk\Tactus\TactusPC_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 5.089010 ms
 System memory in use before: 13.8 MB.
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 System memory in use after: 13.5 MB.
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3682.
-Total: 1.307655 ms (FindLiveObjects: 0.122864 ms CreateObjectMapping: 0.016987 ms MarkObjects: 0.387951 ms  DeleteObjects: 0.014222 ms)
+Total: 1.424423 ms (FindLiveObjects: 0.153955 ms CreateObjectMapping: 0.020973 ms MarkObjects: 0.551562 ms  DeleteObjects: 0.020527 ms)
 
 Click
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
@@ -33,70 +33,6 @@ MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documen
 MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
  
 (Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Release
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:430)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 430)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Release
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:430)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 430)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Release
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:430)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 430)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
 
 Click
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
@@ -122,14 +58,6 @@ MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trun
  
 (Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
 
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
 Drag
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
@@ -138,21 +66,13 @@ MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trun
  
 (Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
 
-Swipe
+Release
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
+MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:430)
 MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
  
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Hold
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:354)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 354)
+(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 430)
 
 Drag
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
@@ -186,21 +106,13 @@ MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trun
  
 (Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
 
-UnloadTime: 20.129999 ms
-System memory in use before: 37.3 MB.
+UnloadTime: 8.941022 ms
+System memory in use before: 74.4 MB.
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 System memory in use after: 13.2 MB.
 
-Unloading 152 unused Assets to reduce memory usage. Loaded Objects now: 223.
-Total: 9.884457 ms (FindLiveObjects: 0.045827 ms CreateObjectMapping: 0.091259 ms MarkObjects: 0.935902 ms  DeleteObjects: 6.240007 ms)
-
-UnloadTime: 0.986075 ms
-System memory in use before: 14.9 MB.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 13.7 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3717.
-Total: 1.585779 ms (FindLiveObjects: 0.106666 ms CreateObjectMapping: 0.015802 ms MarkObjects: 0.741136 ms  DeleteObjects: 0.024888 ms)
+Unloading 361 unused Assets to reduce memory usage. Loaded Objects now: 235.
+Total: 11.710883 ms (FindLiveObjects: 0.021419 ms CreateObjectMapping: 0.054442 ms MarkObjects: 0.439554 ms  DeleteObjects: 10.251653 ms)
 
 Click
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
@@ -209,324 +121,4 @@ MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documen
 MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
  
 (Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Release
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:430)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 430)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Hold
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:354)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 354)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Release
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:430)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 430)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Click
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:390)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 390)
-
-Drag
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:334)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 334)
-
-Swipe
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-MobileAIFramework.Gesture.GestureManager:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\Gesture\GestureManager.cs:410)
-MobileAIFramework.MobileAI:Update() (at C:\Users\10021_000\Documents\Tactus\trunk\Tactus\Assets\MobileFramework\Scripts\MobileAI\MobileAI.cs:191)
- 
-(Filename: C:/Users/10021_000/Documents/Tactus/trunk/Tactus/Assets/MobileFramework/Scripts/MobileAI/Gesture/GestureManager.cs Line: 410)
 
